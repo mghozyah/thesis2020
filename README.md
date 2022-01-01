@@ -1,4 +1,4 @@
-# Thesis 2020
+# Documentation of My Thesis in 2020
 A python coded marketplace web-scraper.
 --
 Disclaimer: this is 2020-built web-scraper, it might have not work anymore due to the websites structure changes.
